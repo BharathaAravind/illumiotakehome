@@ -28,6 +28,6 @@
 4) Now go into the target folder and run the following command java -jar firewall-0.0.1-SNAPSHOT.jar <<path to the rules>>
 
 # Team preference:
-My order of preference would be platform team and policy team.
-
+1) My order of preference would be platform team and policy team.
+2) I look forward for your feedback regarding my implementation and design
 https://github.com/BharathaAravind/illumiotakehome/blob/master/src/main/resources/Screenshot.PNG
