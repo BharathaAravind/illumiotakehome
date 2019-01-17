@@ -25,7 +25,7 @@
 1) The project uses Maven to build the jar file. Maven is a packaging utiliy. 
 2) Clone the repository and go into the illumiotakehome folder and execute the following command mvn clean install
 3) The above command packages the application and generates a jar file in the target folder.
-4) Now go into the target folder and run the following command java -jar firewall-0.0.1-SNAPSHOT.jar path to the rules csv file
+4) Now go into the target folder and run the following command java -jar firewall-0.0.1-SNAPSHOT.jar path_to_the_rules_csv_file
 5) My console output: https://github.com/BharathaAravind/illumiotakehome/blob/master/src/main/resources/Screenshot.PNG
 
 # Team preference:
