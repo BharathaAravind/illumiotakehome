@@ -26,8 +26,12 @@
 2) Clone the repository and go into the illumiotakehome folder and execute the following command mvn clean install
 3) The above command packages the application and generates a jar file in the target folder.
 4) Now go into the target folder and run the following command java -jar firewall-0.0.1-SNAPSHOT.jar <<path to the rules>>
+5) My console output: https://github.com/BharathaAravind/illumiotakehome/blob/master/src/main/resources/Screenshot.PNG
 
 # Team preference:
 1) My order of preference would be platform team and policy team.
 2) I look forward for your feedback regarding my implementation and design
-https://github.com/BharathaAravind/illumiotakehome/blob/master/src/main/resources/Screenshot.PNG
+
+# Citations:
+1) https://www.mkyong.com/java/java-convert-ip-address-to-decimal-number/
+2) https://stackoverflow.com/questions/1660501/what-is-a-good-64bit-hash-function-in-java-for-textual-strings
